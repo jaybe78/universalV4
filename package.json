@@ -68,7 +68,7 @@
     "react": "^16.4.2",
     "react-test-renderer": "^16.4.2",
     "rimraf": "^2.5.4",
-    "semantic-release": "^6.3.6",
+    "semantic-release": "^17.2.3",
     "slash": "^1.0.0",
     "travis-github-status": "^1.6.3"
   },
